@@ -1,0 +1,68 @@
+body
+{
+background-size:cover;
+background-position: center;
+}
+
+h1{
+    margin-top: 0%;
+    text-align: center;
+    color: aliceblue;
+    font-size:100px ;
+    text-shadow: 7px 5px 7px black;
+    display:inline;
+}
+
+.heading{
+  
+font-size: 30px;
+float: right;
+ border-radius: 20px;
+ border: 3px solid whitesmoke;
+    
+}
+
+.copy_right_footer{
+        position:fixed;
+        color:rgb(255, 255, 255);
+        bottom: 0;
+        width: 100%;
+        background-color: black;
+        border: 6px dashed whitesmoke;
+        line-height:3;
+        font-size: 25px;
+        text-align: center;
+    
+    
+
+}
+
+.font{
+    font-size: 60px;
+    box-shadow: 2px 3px 38px darkblue;
+}
+
+.modal-body{
+    text-align: left;
+    font-size: 45px;
+  width: 100%;
+}
+#myModal{
+    size-adjust: 100;
+}
+ 
+
+#start{
+    font-size:30px ;
+    border-radius: 15px;
+}
+
+#logo{
+    width: 11%;
+}
+
+#restart{
+    font-size: 38px;
+    margin-top: 28%;
+    border-radius: 15px;
+    border: 2px solid lightcoral;}
